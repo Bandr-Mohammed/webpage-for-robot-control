@@ -1,4 +1,4 @@
-# webpage-for-robot-control
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/556d4b8d-9afe-4462-a362-8532105b22dd" /># webpage-for-robot-control
 
 How to create a webpage for controlling a robot and giving it movement commands, while also saving the text output to a database using `infinityfree`.
 
@@ -40,5 +40,20 @@ Click on the `Structure` button and the database would be ready.
 Opening the `db.php` file in text format and editing it appropriately where it has the host and the database's information (take the information from `infinityfree`), like so:
 
 ![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(53).png?raw=true)
+
+
+## Step five: Uploading the files
+
+Uploading the final files on `infintyfree`'s file manager, like so:
+
+![Image ALT]()
+
+![Image ALT]()
+
+![Image ALT]()
+
+![Image ALT]()
+
+
 
 
