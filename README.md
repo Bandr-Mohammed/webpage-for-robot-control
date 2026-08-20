@@ -22,12 +22,16 @@ Create the database that will save the text output, like so:
 
 Creating a table in the database we just made by uploading the content of the `setup.sql` file to the database, like so:
 
+First, click on the database's `phpMyAdmin` button.
 ![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(49).png?raw=true)
 
+Then click on the `SQL` button.
 ![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(50).png?raw=true)
 
+After that, open the `setup.sql` file in text form and copy the content and past it here, then click go.
 ![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(51).png?raw=true)
 
+Click on the `Structure` button and the database would be ready.
 ![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(52).png?raw=true)
 
 
