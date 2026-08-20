@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/556d4b8d-9afe-4462-a362-8532105b22dd" /># webpage-for-robot-control
-
 How to create a webpage for controlling a robot and giving it movement commands, while also saving the text output to a database using `infinityfree`.
 
 ## Step one: Download the files
