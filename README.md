@@ -53,6 +53,20 @@ Create a new folder. (not file)
 Upload the final (edited) files here. (Make sure the `index.html` file is named exactly `index.html`, otherwise it may not work)
 ![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(60).png?raw=true)
 
+## The webpage
+
+The webpage should look like this:
+
+![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(61).png?raw=true)
+
+To check the text output: either go to the table in the database or type the link for the uploaded `get_state.php` file.
+
+In this case:
+
+link for the webpage: http://bandr-mohammed.kesug.com/p/
+
+link for the `get_state.php` file:http://bandr-mohammed.kesug.com/p/get_state.php
+
 
 
 
