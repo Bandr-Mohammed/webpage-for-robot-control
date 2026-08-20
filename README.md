@@ -1,2 +1,2 @@
 # webpage-for-robot-control
-How to creat a webpage for controling a robot and giving it commands
+How to create a webpage for controlling a robot and giving it movement commands, while also saving the text output to a database using ~infinityfree~
