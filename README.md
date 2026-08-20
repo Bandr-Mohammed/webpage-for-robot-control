@@ -44,13 +44,16 @@ Opening the `db.php` file in text format and editing it appropriately where it h
 
 Uploading the final files on `infintyfree`'s file manager, like so:
 
-![Image ALT]()
+Click on the `File Manager` button.
+![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(54).png?raw=true)
 
-![Image ALT]()
+Create a new folder. (not file)
+![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(56).png?raw=true)
 
-![Image ALT]()
+Upload the final (edited) files here. (Make sure the `index.html` file is named exactly `index.html`, otherwise it may not work)
+![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(60).png?raw=true)
 
-![Image ALT]()
+
 
 
 
