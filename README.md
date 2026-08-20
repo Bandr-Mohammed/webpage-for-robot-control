@@ -37,8 +37,8 @@ Click on the `Structure` button and the database would be ready.
 
 ## Step four: Bounding the database
 
-Editing the `db.php` file appropriately where it has the host and the database's information (take the information from `infinityfree`), like so:
+Opening the `db.php` file in text format and editing it appropriately where it has the host and the database's information (take the information from `infinityfree`), like so:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(53).png?raw=true)
 
 
