@@ -20,7 +20,7 @@ Create the database that will save the text output, like so:
 
 ## Step three: Create a table
 
-Creating a table in the database we just made by uploading the `setup.sql` file to the database, like so:
+Creating a table in the database we just made by uploading the content of the `setup.sql` file to the database, like so:
 
 ![Image ALT]()
 
@@ -28,6 +28,11 @@ Creating a table in the database we just made by uploading the `setup.sql` file 
 
 ![Image ALT]()
 
+![Image ALT]()
+
+![Image ALT]()
+
+![Image ALT]()
 
 
 
