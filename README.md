@@ -65,7 +65,7 @@ In this case:
 
 link for the webpage: http://bandr-mohammed.kesug.com/p/
 
-link for the `get_state.php` file:http://bandr-mohammed.kesug.com/p/get_state.php
+link for the `get_state.php` file: http://bandr-mohammed.kesug.com/p/get_state.php
 
 
 
