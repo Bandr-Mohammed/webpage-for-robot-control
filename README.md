@@ -10,10 +10,10 @@ Make sure the uploaded files are downloaded.
 
 Create the database that will save the text output, like so:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(46).png?raw=true)
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(47).png?raw=true)
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/webpage-for-robot-control/blob/main/Screenshot%20(48).png?raw=true)
 
 
